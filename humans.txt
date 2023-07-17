@@ -16,3 +16,5 @@
 
 
 New change in file
+
+A new line added to check branch merging
